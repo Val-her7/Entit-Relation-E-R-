@@ -1,2 +1,2 @@
-# Entit-Relation-E-R-
+# Entity-Relation (E-R)
 MCD
